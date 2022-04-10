@@ -1,0 +1,11 @@
+*~
+*.log
+*.sql
+*.zip
+.directory
+.DS_Store
+Thumbs.db
+.buildpath
+.project
+.idea/
+.vscode/
